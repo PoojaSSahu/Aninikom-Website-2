@@ -1,11 +1,7 @@
 /*!
 =========================================================
-* Ollie Landing page
+* Anik Landing page
 =========================================================
-
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
 
 =========================================================
 
